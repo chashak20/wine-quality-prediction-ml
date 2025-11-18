@@ -3,7 +3,8 @@ Steps performed include:
 
 ✔ 1. Data Understanding
 
-Checking missing values, distribution, and correlations.
+Checking missing values, distribution, and<img width="3000" height="2000" alt="Correlation matrix" src="https://github.com/user-attachments/assets/afec6214-4fae-4679-accd-dcfe64d53ee9" />
+ correlations.
 
 ✔ 2. Data Preprocessing
 
